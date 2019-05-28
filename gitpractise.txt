@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 File is changed
 File is changed again
 
 
 File updtaed again
+=======
+>>>>>>> parent of f8aa1de... Files added
